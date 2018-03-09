@@ -2,4 +2,4 @@
 
 Card Flip Animation
 
-![alt text](https://media.giphy.com/media/p3UBBFwVRIs9IiYW76/giphy.gif)
+![Alt Text](https://media.giphy.com/media/p3UBBFwVRIs9IiYW76/giphy.gif)
