@@ -2,6 +2,6 @@
 
 Card Flip Animation
 
-![Alt Text](https://media.giphy.com/media/p3UBBFwVRIs9IiYW76/giphy.gif)
+<source src="http://dev.exiv2.org/attachments/341/video-2012-07-05-02-29-27.mp4" type="video/mp4" />
 
 
