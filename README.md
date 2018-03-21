@@ -2,6 +2,6 @@
 
 Card Flip Animation
 
-![Alt Text](https://media.giphy.com/media/Zccp0FCUdNhTt9YkrR/giphy.gif)
+![Alt Text](https://www.dropbox.com/s/os24ik2pm6isnfb/HWD.gif)
 
 
