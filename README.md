@@ -2,6 +2,6 @@
 
 Card Flip Animation
 
-![Sample Gif] (https://www.dropbox.com/s/os24ik2pm6isnfb/HWD.gif)
+<a href="https://imgflip.com/gif/26yx4j"><img src="https://i.imgflip.com/26yx4j.gif" title="made at imgflip.com"/></a>
 
 
